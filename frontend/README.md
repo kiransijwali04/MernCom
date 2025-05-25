@@ -14,17 +14,17 @@ MernCom is both a functional chat platform and a demonstration of how OS princip
 📁 Project Structure
 
 MERN-Realtime-Chat-Application/
-│
-├── backend/                  # Express server and API
-│   ├── src/
-│   │   ├── controllers/      # Request handlers
-│   │   ├── middleware/       # Authentication, error handlers
-│   │   ├── models/           # Mongoose schemas
-│   │   ├── routes/           # API route definitions
-│   │   └── lib/              # Utility functions (e.g., DB connection)
-│   ├── index.js              # Main server entry
-│   ├── package.json
-│
+
+ backend/                  # Express server and API
+      src/
+         controllers/      # Request handlers
+         middleware/       # Authentication, error handlers
+         models/           # Mongoose schemas
+         routes/           # API route definitions
+         lib/              # Utility functions (e.g., DB connection)
+    index.js              # Main server entry
+    package.json
+
 ├── frontend/                 # React client app
 │   ├── src/
 │   │   ├── components/       # Reusable UI components
