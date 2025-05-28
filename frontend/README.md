@@ -125,9 +125,6 @@ POST	        /signup            	Register new user
 POST	        /login	            Authenticate user
 
 
-📸 Screenshots
-
-
 
 📌 Future Improvements
 
