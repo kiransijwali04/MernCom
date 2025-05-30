@@ -35,6 +35,7 @@ MERN-Realtime-Chat-Application/
 │   ├── package.json
 │
 └── README.md
+![image](https://github.com/user-attachments/assets/d75e43f1-8e40-4320-a58c-eac1b047497e)
 
 🚀 Features
 
