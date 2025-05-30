@@ -11,30 +11,11 @@ This project not only showcases full-stack development but also integrates key O
 
 MernCom is both a functional chat platform and a demonstration of how OS principles enhance scalable, real-time web applications.
 
-📁 Project Structure
 
-MERN-Realtime-Chat-Application/
-│
-├── backend/                  # Express server and API
-│   ├── src/
-│   │   ├── controllers/      # Request handlers
-│   │   ├── middleware/       # Authentication, error handlers
-│   │   ├── models/           # Mongoose schemas
-│   │   ├── routes/           # API route definitions
-│   │   └── lib/              # Utility functions (e.g., DB connection)
-│   ├── index.js              # Main server entry
-│   ├── package.json
-│
-├── frontend/                 # React client app
-│   ├── src/
-│   │   ├── components/       # Reusable UI components
-│   │   ├── pages/            # App screens (Login, Chat, etc.)
-│   │   ├── context/          # Global state (e.g., Auth, Chat)
-│   │   ├── hooks/            # Custom hooks
-│   │   └── App.js            # Main React component
-│   ├── package.json
-│
-└── README.md
+
+   ![image](https://github.com/user-attachments/assets/301e7acd-8175-4e73-bee4-f2160d957c9f)
+
+
 
 🚀 Features
 
